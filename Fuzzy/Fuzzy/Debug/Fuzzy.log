@@ -1,0 +1,18 @@
+﻿Сборка начата 17.01.2016 21:36:34.
+     1>Проект "C:\My Documents\Visual Studio 2013\Projects\Fuzzy\Fuzzy\Fuzzy.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\VS13\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Fuzzy.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\VS13\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Fuzzy.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         D:\VS13\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\My Documents\Visual Studio 2013\Projects\Fuzzy\Debug\Fuzzy.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\My Documents\Visual Studio 2013\Projects\Fuzzy\Debug\Fuzzy.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\My Documents\Visual Studio 2013\Projects\Fuzzy\Debug\Fuzzy.lib" /MACHINE:X86 Debug\Main.obj
+         Debug\stdafx.obj
+         Fuzzy.vcxproj -> C:\My Documents\Visual Studio 2013\Projects\Fuzzy\Debug\Fuzzy.exe
+       BscMake:
+         D:\VS13\VC\bin\bscmake.exe /nologo /o"C:\My Documents\Visual Studio 2013\Projects\Fuzzy\Debug\Fuzzy.bsc" /n Debug\Main.sbr Debug\stdafx.sbr
+     1>Сборка проекта "C:\My Documents\Visual Studio 2013\Projects\Fuzzy\Fuzzy\Fuzzy.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:12.55
